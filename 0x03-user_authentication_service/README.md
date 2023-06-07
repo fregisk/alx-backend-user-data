@@ -365,3 +365,5 @@ If the token is valid, respond with a 200 HTTP code and the following JSON paylo
 {"email": "", "message": "Password updated"} Repo:
 
 GitHub repository: alx-backend-user-data Directory: 0x03-user_authentication_service File: app.py
+
+Copyright © 2023 ALX, All rights reserved.
